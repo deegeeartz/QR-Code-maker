@@ -6,7 +6,7 @@ const readBase64FromFile = (filePath) => {
 };
 
 // URL of the desired link
-const linkUrl = "https://deegeeartz.github.io/TWL_menu/"; // Replace with your desired URL
+const linkUrl = "https://thewinelab.github.io/TWL_menu/"; // Replace with your desired URL
 
 // Function to generate QR code with a logo
 const generateQRCodeWithLogo = (url, logoBase64) => {
